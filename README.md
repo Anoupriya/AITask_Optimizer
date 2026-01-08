@@ -1,4 +1,3 @@
-
 # Amdox AI-Powered Task Optimizer
 
 This project analyzes employee mood using text-based emotion detection
@@ -13,3 +12,9 @@ and recommends suitable tasks.
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+
+## Project Screenshots
+
+![optimizer](screenshots/optimizer.jpeg)
+![sentiment](screenshots/sentiment.jpeg)
+![analysis](screenshots/analysis.jpeg)
