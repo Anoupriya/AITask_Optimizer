@@ -13,3 +13,7 @@ and recommends suitable tasks.
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+
+![optimizer](screenshots/optimizer.jpeg)
+![sentiment](screenshots/sentiment.jpeg)
+![analysis](screenshots/analysis.jpeg)
